@@ -1,0 +1,20 @@
+# TryHackMe — [Offensive Security Intro]
+**Date:** 2025-10-22  
+**Platform:** TryHackMe
+
+## Goal
+Find a hidden URL and interact with a simulated web form.
+
+## What I did (eazy level)
+- Used `dirb` to enumerate directories and discovered a hidden URL.
+- Opened the discovered page and interacted with a simulated form.
+- Performed a lab-only simulation: credited a test bank account with $2000.
+
+## Result
+Task completed successfully. All actions were performed in an isolated lab environment.
+
+## Lessons learned
+- Practical use of directory enumeration (`dirb`) for finding hidden resources.
+- Caution when interacting with web forms — always ensure you have permission.
+
+
